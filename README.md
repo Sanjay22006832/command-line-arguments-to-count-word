@@ -30,12 +30,10 @@ Step 6:
 Print the number of words
 
 ## PROGRAM:
-Program for getting the word count from the contents of a file using command line arguments:
-
-Developed by: M . Sanjay
-
-Register number: 212222240090
 ```
+Program for getting the word count from the contents of a file using command line arguments:
+Developed by: M . Sanjay
+Register number: 212222240090
 import sys
 fp=open(sys.argv[1],'r')
 count=0
